@@ -34,3 +34,5 @@ for game in games:
     product *= possibleWins
 
 print(product)
+
+#test
